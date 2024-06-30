@@ -1,0 +1,5 @@
+name: koba_custom_movement
+version: 1.0.0
+main: me.koba.koba_custom_movement.Koba_custom_movement
+api-version: 1.20.0
+prefix: KOBA_CUSTOM_MOVEMENT
